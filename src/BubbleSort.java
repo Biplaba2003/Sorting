@@ -1,7 +1,5 @@
 import java.lang.*;
 
-
-
 public class BubbleSort {  
     static void BubbleSort(int[] arr) {  
         int n = arr.length;  
